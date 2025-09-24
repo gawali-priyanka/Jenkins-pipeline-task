@@ -71,12 +71,12 @@ Post-Build Actions – Clean up, notifications, etc.
 
  Successful Pipeline Execution
  
- ![Screenshot](screenshot/https://github.com/gawali-priyanka/Jenkins-pipeline-task/blob/main/screenshots/Static-Web-App.png?raw=true)
+ ![Alt Text](https://github.com/gawali-priyanka/Jenkins-pipeline-task/blob/main/screenshots/Static-Web-App.png?raw=true)
 
 
  Static Web App Running on Port 8081
 
- ![Screenshot](screenshot/Github-action.png)
+![Alt Text](https://github.com/gawali-priyanka/Jenkins-pipeline-task/blob/main/screenshots/pipeline-execution.png?raw=true)
 
 
  ---
