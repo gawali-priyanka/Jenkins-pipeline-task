@@ -70,9 +70,11 @@ Post-Build Actions – Clean up, notifications, etc.
 ## Screenshots
 
  Successful Pipeline Execution
+ 
 ![Screenshot](screenshot/static web app.png)
 
  Static Web App Running on Port 8081
+ 
  ![Screenshot](screenshot/pipeline execution.png)
 
  ---
