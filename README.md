@@ -70,6 +70,8 @@ Post-Build Actions – Clean up, notifications, etc.
 ## Screenshots
 
  Successful Pipeline Execution
+![Alt Text](path/to/image.png)
+
  Static Web App Running on Port 8081
  Jenkins Dashboard with Pipeline Listed
  Docker Image Build Logs
